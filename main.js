@@ -1,4 +1,4 @@
-console.log('initialized');
+console.log('app started');
 const { app, BrowserWindow } = require('electron');
 const { exec } = require('child_process');
 
